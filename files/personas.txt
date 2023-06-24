@@ -1,0 +1,1 @@
+[{"id":"4054195c","rut":"12345678-9","nombre":"Maria","apellido":"lopez"},{"id":"6eb90064","rut":"12345678-9","nombre":"Maria","apellido":"lopez"},{"id":"a79baeba","rut":"11223344-9","nombre":"Pedro","apellido":"Marmol"}]

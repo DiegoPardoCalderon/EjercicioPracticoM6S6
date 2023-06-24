@@ -1,0 +1,16 @@
+{
+  "name": "ejerciciopracticom6s6",
+  "version": "1.0.0",
+  "description": "Comandos con NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.2"
+  }
+}
